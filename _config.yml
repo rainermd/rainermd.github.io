@@ -27,10 +27,10 @@ navbar-links:
     - Epigraphene: "https://graphene.gatech.edu/"
     - Astrophysics Simulation: "https://sites.gatech.edu/gli/"
   Dungeons and Dragons: 
-    - Avrae !library Alias: ""
-    - Homebrew Compendium: ""
+    - Avrae !library Alias: "avrae"
+    - Homebrew Compendium: "homebrew"
   Art: "art"
-  Baka Math: ""
+  Baka Math: "bakamath"
   
 
 ################
