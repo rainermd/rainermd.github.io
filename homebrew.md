@@ -1,1 +1,4 @@
-# Homebrew Test
+---
+layout: page
+title: Homebrew
+---
