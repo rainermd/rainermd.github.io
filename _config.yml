@@ -1,4 +1,4 @@
-###########################################################
+e###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
@@ -21,10 +21,17 @@ author: Rainer Marquardt-Demen
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research:
+    - Parallel Theory: "https://beautifuljekyll.com"
+    - Mirror Theory: "https://www.markdowntutorial.com/"
+    - Epigraphene: ""
+    - Astrophysics Simulation: ""
+  Dungeons and Dragons: 
+    - Avrae !library Alias: ""
+    - Homebrew Compendium: ""
+  Art: "art"
+  Baka Math: ""
+  
 
 ################
 # --- Logo --- #
