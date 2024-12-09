@@ -1,1 +1,4 @@
-# Test Mirror Theory
+---
+layout: page
+title: Mirror Theory
+---
