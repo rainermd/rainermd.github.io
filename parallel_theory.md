@@ -1,1 +1,4 @@
-# Test Parallel Theory
+---
+layout: page
+title: Parallel Theory
+---
