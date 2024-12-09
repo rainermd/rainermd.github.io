@@ -1,1 +1,4 @@
-# Test Baka
+---
+layout: page
+title: Bakamath
+---
