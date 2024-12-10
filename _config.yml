@@ -21,16 +21,16 @@ author: Rainer Marquardt-Demen
 
 navbar-links:
   About Me: "aboutme"
-  Research:
-    - Parallel Theory: "parallel_theory"
-    - Mirror Theory: "mirror_theory"
-    - Epigraphene: "https://graphene.gatech.edu/"
-    - Astrophysics Simulation: "https://sites.gatech.edu/gli/"
-  Dungeons and Dragons: 
-    - Avrae !library Alias: "avrae"
-    - Homebrew Compendium: "homebrew"
-  Art: "art"
-  Baka Math: "bakamath"
+  #Research:
+   # - Parallel Theory: "parallel_theory"
+   # - Mirror Theory: "mirror_theory"
+   # - Epigraphene: "https://graphene.gatech.edu/"
+   # - Astrophysics Simulation: "https://sites.gatech.edu/gli/"
+  #Dungeons and Dragons: 
+   # - Avrae !library Alias: "avrae"
+   # - Homebrew Compendium: "homebrew"
+  #Art: "art"
+  #Baka Math: "bakamath"
   
 
 ################
