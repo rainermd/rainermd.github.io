@@ -26,7 +26,7 @@ navbar-links:
    # - Mirror Theory: "mirror_theory"
    # - Epigraphene: "https://graphene.gatech.edu/"
    # - Astrophysics Simulation: "https://sites.gatech.edu/gli/"
-  #Dungeons and Dragons: 
+   # Dungeons and Dragons: 
    # - Avrae !library Alias: "avrae"
    # - Homebrew Compendium: "homebrew"
   #Art: "art"
@@ -57,13 +57,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "rainer.marquardt.demen@gmail.com"
+   email: "rainer.marquardt.demen@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali 
 # github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: "@bakamath"
+   youtube: "@bakamath"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -71,7 +71,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: baka_math
+   instagram: "baka_math"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -83,7 +83,7 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
- discord: "brisingr6062/615331182543896576" 
+   discord: "brisingr6062/615331182543896576" 
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
